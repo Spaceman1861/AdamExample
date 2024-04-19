@@ -247,3 +247,8 @@ Src/CommerceVision.Lucy.Web/wwwroot/AdminTheme/**/*.min.css
 /.tye/process_store
 /nuget
 /nuget.config
+
+
+/.vs
+
+.vs/**
