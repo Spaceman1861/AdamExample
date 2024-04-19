@@ -94,3 +94,4 @@ C:\Source\Test\Test\obj\Debug\net8.0\refint\Test.dll
 C:\Source\Test\Test\obj\Debug\net8.0\Test.pdb
 C:\Source\Test\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
 C:\Source\Test\Test\obj\Debug\net8.0\ref\Test.dll
+C:\Source\Test\Test\obj\Debug\net8.0\Test.sourcelink.json
